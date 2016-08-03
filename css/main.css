@@ -1,0 +1,85 @@
+li{
+	display: inline-block;
+	margin: 2%;
+	padding: 2%;
+}
+.baner{
+	width: 100%;
+}
+.banertexto{
+	width: 100%;
+	padding: 10%;
+}
+.mision{
+	margin-left:38%;
+}
+.textouno{
+	padding: 1%;
+	margin: 10px;
+}
+.fotometodo{
+	width: 100%;
+}
+.fondov{
+	background-image: url("../img/fondo.jpg");
+	width: 100%;
+}
+.centro{
+	margin: 5%;
+}
+.metodoimg{
+	margin-left: 45%;
+	margin-top: 5%;
+}
+.servicios{
+	width: 100%;
+	padding: 3%;
+}
+.espacio{
+	margin: 5%;
+}
+.imagcentro{
+	margin-left: 30%;
+}
+´.proyecto{
+	margin: 10%
+	padding:10%;
+}
+.circulo{
+	border-radius: 100%;
+}
+.imgblog{
+	width: 75%;
+	height: 50%;
+	margin-left: 13%;
+}
+.imgblog-2{
+	width: 100%;
+	height: 100%;
+}
+.slider{
+	margin-top: 90%;
+}
+.fondogris{
+	background-image: url(../img/fondo2.jpg);
+}
+.redes{
+	width: 15%;
+	height: 15%;
+	margin-left: 90%;
+}
+.borde{
+	border: solid 4px;
+	color: white;
+}
+.bordea{
+	width: 100%;
+	height: 90%;
+	padding: 10%;
+}
+.espaciob{
+	margin: 25%;
+}
+.espacioc{
+	margin: 29%;
+}
